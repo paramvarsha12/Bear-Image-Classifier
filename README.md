@@ -5,6 +5,12 @@ deep learning-based image classifier. uses CNN. classify different types of bear
 
 # Images :
 
+![](https://github.com/paramvarsha12/Bear-Image-Classifier/blob/c32fd41d8a2c3ccab1142100cc7ea68a1f03e9fc/Screenshot%202025-06-26%20123248.png
+)
+![](https://github.com/paramvarsha12/Bear-Image-Classifier/blob/c32fd41d8a2c3ccab1142100cc7ea68a1f03e9fc/Screenshot%202025-06-26%20123355.png
+)
+![](https://github.com/paramvarsha12/Bear-Image-Classifier/blob/c32fd41d8a2c3ccab1142100cc7ea68a1f03e9fc/Screenshot%202025-06-26%20153003.png)
+
 
 
 
@@ -41,4 +47,6 @@ deep learning-based image classifier. uses CNN. classify different types of bear
 - set up a virtual environment in python
 - run these commands to install : '*pip install tensorflow keras matplotlib numpy pillow scikit-learn*'
 
+---
 
+AUTHOR : PARAM VARSHA (26/06/2025)
